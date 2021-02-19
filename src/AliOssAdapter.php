@@ -97,9 +97,9 @@ class AliOssAdapter extends AbstractAdapter
         $bucket,
         $endPoint,
         $ssl,
+        $cdnDomain,
         $isCname = false,
         $debug = false,
-        $cdnDomain,
         $prefix = null,
         array $options = []
     )
