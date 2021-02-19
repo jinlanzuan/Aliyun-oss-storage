@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "aliyuncs/oss-sdk-php": "~2.0"
+        "jlz/oss-sdk-php": "~2.4"
     },
     "autoload": {
         "psr-4": {
